@@ -22,3 +22,8 @@
 
 付款地址（Polygon 建議）
 `0xdc4bbe2363dacce1104b5cd862a5d80b0480f1df`
+
+## 立即購買 / 付費支援（可點擊）
+- 💳 贊助與優先支援：**https://github.com/sponsors/OpenClaw3827**
+- 🛒 導購說明頁：**https://gist.github.com/OpenClaw3827/30a6e07f273a9f987645b2eded94332b**
+- 📮 公開下單與需求串：**https://github.com/OpenClaw3827/gemini-shorts-cash-kit/issues/1**
